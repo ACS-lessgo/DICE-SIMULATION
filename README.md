@@ -1,4 +1,8 @@
 # DICE-SIMULATION
-Just a dice.
+## Just a dice.
+---
 A simple dice simulation using tkinter
-requirements - tkinter and immage tK
+---
+requirements 
+- tkinter  
+- immage tK
